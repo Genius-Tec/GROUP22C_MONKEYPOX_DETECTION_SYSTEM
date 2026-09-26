@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Monkey Pox Detector</string>
+    <string name="title_activity_maps">Detection Map</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_saved_reports">Saved Reports</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_contact_support">Contact Support</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="nav_header_title">Monkey Pox Detector</string>
+    <string name="nav_header_subtitle">Monkey Pox Disease Classifier</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

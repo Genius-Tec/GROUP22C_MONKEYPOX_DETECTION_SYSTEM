@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.YOLOv8TfLite" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Main theme colors -->
+        <item name="colorPrimary">@color/red_primary</item>
+        <item name="colorPrimaryVariant">@color/red_primary_dark</item>
+        <item name="colorOnPrimary">@color/on_red_primary</item>
+        <item name="colorSecondary">@color/red_secondary</item>
+        <item name="colorSecondaryVariant">@color/red_primary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/red_primary_dark</item>
+
+        <!-- Material 3 specific -->
+        <item name="colorPrimaryContainer">@color/red_primary_container</item>
+        <item name="colorSecondaryContainer">@color/red_accent</item>
+    </style>
+
+    <style name="Theme.YOLOv8TfLite" parent="Base.Theme.YOLOv8TfLite" />
+</resources>

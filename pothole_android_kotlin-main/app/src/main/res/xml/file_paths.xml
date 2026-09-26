@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="my_images" path="Android/data/com.example.yoporth/files/Pictures" />
+    <external-files-path name="my_files" path="." />
+    <external-cache-path name="my_cache_images" path="." />
+</paths>

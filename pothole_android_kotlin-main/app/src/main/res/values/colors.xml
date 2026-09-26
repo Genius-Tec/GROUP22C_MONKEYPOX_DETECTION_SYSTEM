@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bounding_box_color">#FF0000</color>
+
+    <!-- Red Palette -->
+    <color name="red_primary">#D32F2F</color>
+    <color name="red_primary_dark">#B71C1C</color>
+    <color name="red_primary_container">#FFEBEE</color>
+    <color name="red_secondary">#F44336</color>
+    <color name="red_accent">#FF5252</color>
+    <color name="on_red_primary">#FFFFFF</color>
+
+    <!-- Deprecated - Mapping to Red for consistency -->
+    <color name="brown_primary">#D32F2F</color>
+    <color name="brown_primary_dark">#B71C1C</color>
+</resources>
